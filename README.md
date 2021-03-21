@@ -2,7 +2,7 @@
 
 A loan interest calculator made with React.
 
-### Live here: 
+### Live here: https://loan-mg.vercel.app/
 
 ## Features
 
